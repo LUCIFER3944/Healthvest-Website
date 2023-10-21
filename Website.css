@@ -475,3 +475,25 @@ background-position: center;
 .services li, .links li {
   margin-bottom: 5px;
 }
+.copyright {
+  color: #8f9191;
+  font-size: 14px;
+  line-height: 1.5;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  text-align: center;
+ }
+ 
+ .made-with {
+  color: #8f9191;
+  font-size: 14px;
+  line-height: 1.5;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  text-align: center;
+ }
+ .footer5{
+  background-color: #101010;
+  margin-top: -15px;
+  height: 80px;
+ }
